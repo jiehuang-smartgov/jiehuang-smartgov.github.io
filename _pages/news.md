@@ -1,7 +1,8 @@
 ---
 layout: page
-title: news
+title: News
 permalink: /news/
+nav: false
 ---
 
-{% include news.liquid %}
+This demo page has been hidden for Jie Huang's academic homepage.

@@ -1,13 +1,8 @@
 ---
 layout: page
-title: submenus
-nav: true
-nav_order: 8
-dropdown: true
-children:
-  - title: bookshelf
-    permalink: /books/
-  - title: divider
-  - title: blog
-    permalink: /blog/
+title: Dropdown
+permalink: /dropdown/
+nav: false
 ---
+
+This demo page has been hidden for Jie Huang's academic homepage.
