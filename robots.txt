@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jiehuang-smartgov.github.io/jiehuang-smartgov/sitemap.xml
+Sitemap: https://jiehuang-smartgov.github.io/sitemap.xml
