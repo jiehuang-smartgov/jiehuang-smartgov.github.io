@@ -2,24 +2,25 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
-first_name: Jie
-last_name: Huang
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+title: "Jie Huang | 黄婕"
+first_name: "Jie"
+last_name: "Huang"
 
-url: https://jiehuang-smartgov.github.io # the base hostname & protocol for your site
-baseurl: /jiehuang-smartgov # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
+contact_note: >
+  The best way to reach me is by email.
+
+description: >
+  Jie Huang is a Lecturer at the School of Smart Governance, Renmin University of China. Her research focuses on smart governance, public data governance, data standardization, semantic interoperability, and AI data governance.
+
+footer_text: >
+  Powered by [Jekyll](https://jekyllrb.com/) with [al-folio](https://github.com/alshedivat/al-folio) theme. Hosted by [GitHub Pages](https://pages.github.com/).
+
+keywords: smart governance, public data governance, data standardization, semantic interoperability, AI data governance, smart cities, information resource management
+lang: en
+icon: 📊
+url: "https://jiehuang-smartgov.github.io"
+baseurl: ""
+last_updated: true 
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
@@ -340,8 +341,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Huang, 黄]
+  first_name: [Jie, 婕]
 
   style: apa
   locale: en
