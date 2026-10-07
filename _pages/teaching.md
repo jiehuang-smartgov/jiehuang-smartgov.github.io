@@ -14,10 +14,9 @@ My teaching connects artificial intelligence and data technologies with data man
 ## Selected Courses
 
 **主要课程**
-
 ### Fundamentals of Artificial Intelligence and Data Technologies
 
-**Undergraduate course | 本科课程：人工智能与数据技术基础**
+**Undergraduate course · 本科课程：人工智能与数据技术基础**
 
 An introductory course covering knowledge representation and reasoning, machine learning, neural networks, large language models, and intelligent agents. It connects core concepts with data practices and practical applications, helping students understand how AI systems work and critically assess their capabilities and limitations.
 
@@ -25,15 +24,15 @@ An introductory course covering knowledge representation and reasoning, machine 
 
 ### Data Management and Data Mining
 
-**Undergraduate course | 本科课程：数据管理与数据挖掘**
+**Undergraduate course · 本科课程：数据管理与数据挖掘**
 
-This course connects data mining with management across the data lifecycle. Students explore data planning, collection, storage, quality, security, and analysis, with attention to choosing appropriate methods, interpreting findings, and understanding how management decisions affect the usefulness of data.
+This course connects data management across the data lifecycle with core data mining techniques. It covers data planning, collection, storage, quality, and security management, together with data cleaning and preprocessing, feature preparation, classification and regression, clustering, association rule mining, and anomaly detection. The course emphasizes selecting appropriate methods for practical problems, evaluating model performance and discovered patterns, and interpreting and communicating findings through visualization. Students develop an understanding of the process from data preparation and modeling to the application of results, and how data management decisions affect the quality and reliability of data mining.
 
-课程将数据挖掘与数据全生命周期管理相结合，涵盖数据规划、采集、存储、质量、安全与分析，关注方法选择、结果解释，以及数据管理决策对数据利用的影响。
+课程将数据全生命周期管理与数据挖掘技术相结合，涵盖数据规划、采集、存储、质量与安全管理，并介绍数据清洗与预处理、特征处理、分类与回归、聚类、关联规则挖掘和异常检测等技术。课程围绕实际问题，关注挖掘方法选择、模型性能与挖掘模式的评价，以及结果可视化、解释与表达，帮助学生理解从数据准备、建模分析到结果应用的完整过程，以及数据管理决策对数据挖掘质量和可靠性的影响。
 
 ### Data Management and Data Governance
 
-**Master's course | 硕士课程：数据管理与数据治理**
+**Master's course · 硕士课程：数据管理与数据治理**
 
 A graduate course examining data management capabilities and data governance arrangements. Topics include data architecture, integration, metadata and master data, quality, sharing, organizational responsibilities, standards, and public-sector data use. Literature discussion and case analysis connect technical practices with governance questions.
 
@@ -41,7 +40,7 @@ A graduate course examining data management capabilities and data governance arr
 
 ### Academic Norms and Thesis Writing
 
-**学术规范与论文写作**
+**Master's course · 硕士课程：学术规范与论文写作**
 
 ## Student Research and Supervision
 
