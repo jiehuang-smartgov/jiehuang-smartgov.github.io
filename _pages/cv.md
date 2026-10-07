@@ -14,7 +14,7 @@ Lecturer, School of Smart Governance, Renmin University of China
 Email: [huangjie2018@ruc.edu.cn](mailto:huangjie2018@ruc.edu.cn)  
 Website: [jiehuang-smartgov.github.io](https://jiehuang-smartgov.github.io/)
 
-[Download public CV (PDF)](/assets/pdf/Huang_Jie_CV_public.pdf){:target="_blank"}
+[Download English CV (PDF)](/assets/pdf/Huang_Jie_CV_EN.pdf){:target="_blank"} · [下载中文简历（PDF）](/assets/pdf/Huang_Jie_CV_ZH.pdf){:target="_blank"}
 
 ## Academic Appointment
 
@@ -51,10 +51,6 @@ Website: [jiehuang-smartgov.github.io](https://jiehuang-smartgov.github.io/)
 - **Data Governance for AI Applications** — 面向人工智能应用的数据治理。
 - **Memory Governance for LLM Agents** — 大模型智能体记忆治理。
 
-My research on memory governance for LLM agents includes guidelines for developing and applying urban AI agents, error correction in long-horizon agent tasks, and agent memory retrieval.
-
-大模型智能体记忆治理方向包括城市智能体建设及应用指南、长程智能体纠错机制和智能体记忆检索。
-
 See [Research](/research/) for research themes and questions.
 
 ## Selected Publications
@@ -83,7 +79,6 @@ For journal articles, conference contributions, and book contributions, see the 
 - **Role / 角色:** Principal Investigator / 主持人。
 - **Project No. / 项目编号:** 26XNN021。
 - **Funding / 资助来源:** Renmin University of China, “Biaoyuan” Special Project / 中国人民大学“标原”专项。
-- **Programme / 项目类别:** 培优学科与新文科启动基金项目（年度项目培育计划）。
 
 ### Current Project Participation
 
@@ -158,9 +153,9 @@ See [Standards](/standards/) for document titles, official links, local standard
 
 标准正式名称、官方链接、地方标准参与情况及状态信息，详见 [Standards](/standards/)。
 
-## Teaching and Student Supervision
+## Teaching
 
-**教学与学生指导**
+**教学**
 
 - **Fundamentals of Artificial Intelligence and Data Technologies** — Undergraduate.  
   人工智能与数据技术基础，本科课程。
@@ -174,10 +169,6 @@ See [Standards](/standards/) for document titles, official links, local standard
 - **Academic Norms and Thesis Writing** — Master's.  
   学术规范与论文写作，硕士课程。
 
-The Data Management and Data Mining course connects data lifecycle management with data preprocessing, classification and regression, clustering, association rule mining, anomaly detection, and the evaluation and interpretation of results.
+See [Teaching](/teaching/) for course descriptions.
 
-数据管理与数据挖掘课程将数据全生命周期管理与数据预处理、分类与回归、聚类、关联规则挖掘、异常检测，以及结果评价和解释相结合。
-
-Student research topics include public data governance, semantic interoperability, smart city data use, and memory governance for LLM agents. See [Teaching](/teaching/) for course descriptions and supervision interests.
-
-学生研究方向包括公共数据治理、语义互操作、智慧城市数据利用及大模型智能体记忆治理。课程介绍与学生指导议题，详见 [Teaching](/teaching/)。
+课程介绍详见 [Teaching](/teaching/)。
