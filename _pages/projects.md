@@ -32,20 +32,20 @@ This project examines semantic interoperability in public data use across depart
 
 **部分参与项目**
 
-### Interdisciplinary Research Group on Digital Intelligence and Ethics
-
 ### Data Governance for Large Models and Multimodal Technologies
 
 **大模型数据治理与多模态技术项目**
 
 - **Project type / 项目类别:** Commissioned research project / 横向项目。
-- **Project period / 项目期限:** March 2026– / 2026年3月至今。
+- **Project period / 项目期限:** March 2026–present / 2026年3月至今。
 - **My role / 本人角色:** Major participant / 主要参与人。
+
+### Interdisciplinary Research Group on Digital Intelligence and Ethics
 
 **数智与伦理交叉研究组**
 
 - **Funding / 资助来源:** Renmin University of China U40 Research Fund / 中国人民大学 U40 科研基金。
-- **Project period / 项目期限:** January 2026– / 2026年1月至今。
+- **Project period / 项目期限:** January 2026–present / 2026年1月至今。
 - **My role / 本人角色:** Major participant / 主要参与人。
 
 ### Research on Government Data Governance and Data Use Capability in China
