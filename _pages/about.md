@@ -61,4 +61,4 @@ For research themes and questions, see [Research](/research/).
 
 Further information is available on the [Projects](/projects/) and [Standards](/standards/) pages.
 
-[Download public CV](/assets/pdf/Huang_Jie_CV_public.pdf){:target="_blank"}
+[Download English CV (PDF)](/assets/pdf/Huang_Jie_CV_EN.pdf){:target="_blank"} · [下载中文简历（PDF）](/assets/pdf/Huang_Jie_CV_ZH.pdf){:target="_blank"}
