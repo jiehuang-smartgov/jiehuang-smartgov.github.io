@@ -27,7 +27,7 @@ The PMRC 2024 entry is an accepted research design, as indicated in its accompan
 
 其中，PMRC 2024 条目为获接收的研究设计，具体状态见该条目的说明。
 
-{% bibliography --query @inproceedings %}
+{% bibliography --query @inproceedings,@misc %}
 
 ## Book Contributions
 
